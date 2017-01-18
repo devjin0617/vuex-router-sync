@@ -6,7 +6,7 @@
 
 vue-router와 vuex store를 손쉽게 동기화 할 수 있습니다.
 
-### Usage
+### 사용법
 
 ``` bash
 # vue-router 최신버전에서만 작동합니다 (2.0 이상)
